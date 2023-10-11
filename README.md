@@ -1,8 +1,8 @@
-# 📚 Monitoria 2023.1
+# <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/231011/f5244a9f85b505536132dc3418a65f51.png" alt="fontes-pixeladas" border="0"></a>
 
-Roteiro e Programação 
-  
-1ª  temporada:
+<a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/231011/c828586ed762445a61c6e17676b93093.png" alt="fontes-pixeladas" border="0"></a>
+
+1ª Temporada:
   - Meu primeiro programa ["Olá mundo!"];
   - Objetos;
   - Identificando Classes a partir do diagrama UML;
@@ -33,7 +33,7 @@ Roteiro e Programação
   - switch () case: break; e o default;
   - break e continue;
     
-2ª  temporada:
+2ª  Temporada:
   - Revisar Polimorfismo, Encapsulamento, Agregação e Composição;
   - JOptionpane;
   - Tela e Contrutor de Tela (JFrame e JPanel);
