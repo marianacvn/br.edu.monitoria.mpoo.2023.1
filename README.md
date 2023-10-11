@@ -1,6 +1,6 @@
 # Monitoria 2023.1
 
-## Roteiro e Programação 
+Roteiro e Programação 
   
 1ª  temporada:
   - Meu primeiro programa ["Olá mundo!"];
