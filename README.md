@@ -1,7 +1,5 @@
 # <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/231011/f5244a9f85b505536132dc3418a65f51.png" alt="fontes-pixeladas" border="0"></a>
 
-<a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/231011/c828586ed762445a61c6e17676b93093.png" alt="fontes-pixeladas" border="0"></a>
-
 1ª Temporada:
   - Meu primeiro programa ["Olá mundo!"];
   - Objetos;
@@ -37,17 +35,17 @@
   - Revisar Polimorfismo, Encapsulamento, Agregação e Composição;
   - JOptionpane;
   - Tela e Contrutor de Tela (JFrame e JPanel);
-  - Layout de Telas (Usar PDF de Rico);
+  - Layout de Telas;
   - Componentes de Tela: Botão, TextField, Label, Radio Botão;
   - Componentes Gráficos;
-  - Fazer Diagrama para Exercicio;
+  - Diagrama para Exercicio;
   - MVC (Model, View, Controller);
-  - Explicar a classe de Controle - Troca de Telas por meio de Botão;
+  - Classe de Controle - Troca de Telas por meio de Botão;
   - Fazer Sistema de Login, com Tela, Classes do Model, Base de Dados e Controle;
   - Interface ActionListener;
-  - Explicar Classe Interna e Classe Interna Anônima;
-  - Aprender o uso de datas no Java;
-  - Explicar Thread- com Exercicio;
+  - Classe Interna e Classe Interna Anônima;
+  - Uso de datas no Java;
+  - Thread- com Exercicio;
 
 
   
